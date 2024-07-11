@@ -1,0 +1,6 @@
+@embackend_HostAddress = http://localhost:5137
+
+GET {{embackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
